@@ -1,6 +1,6 @@
 ## Moufflejs
 
-The lightweightest js famework on the market
+The lightweightest JS framework on the market
 
 ### How to install
 
